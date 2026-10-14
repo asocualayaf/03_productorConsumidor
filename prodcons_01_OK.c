@@ -3,6 +3,7 @@
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 #define MAXPRODUCING 10
 #define MAXAPPENDING 10
